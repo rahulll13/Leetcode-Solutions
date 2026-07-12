@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Depth-First Search
 |  |
