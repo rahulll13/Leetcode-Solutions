@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
