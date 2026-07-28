@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1073-adding-two-negabinary-numbers) |
 | [1260-shift-2d-grid](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
