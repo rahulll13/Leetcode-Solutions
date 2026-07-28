@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1073-adding-two-negabinary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
