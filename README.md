@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1073-adding-two-negabinary-numbers) |
 | [1260-shift-2d-grid](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1073-adding-two-negabinary-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1073-adding-two-negabinary-numbers) |
@@ -213,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
