@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
@@ -113,11 +114,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
