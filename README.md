@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2784-check-if-array-is-good](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-adding-two-negabinary-numbers](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1073-adding-two-negabinary-numbers) |
 | [1406-stone-game-iii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -277,11 +281,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -290,5 +296,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
