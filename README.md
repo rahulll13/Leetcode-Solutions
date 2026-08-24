@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
