@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
