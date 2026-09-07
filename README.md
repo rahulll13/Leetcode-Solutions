@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0940-distinct-subsequences-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1927-sum-game) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
