@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [2685-count-the-number-of-complete-components](https://github.com/rahulll13/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rahulll13/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -429,4 +431,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/rahulll13/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
